@@ -1,0 +1,26 @@
+# Artefactos generados por Vivado (se regeneran solos al abrir/compilar
+# cada .xpr, no hace falta versionarlos)
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.runs/
+.Xil/
+
+# Logs, journals y configs de ondas (especificos de cada maquina/corrida)
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+usage_statistics_webtalk.html
+usage_statistics_webtalk.xml
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Documentos (PDFs, Word) - no se versionan
+*.pdf
+*.docx
